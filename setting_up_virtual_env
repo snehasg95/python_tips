@@ -1,0 +1,7 @@
+Steps for creating a virtual env
+* when created no modules will be prresent, more like a sandbox specific to a project
+
+1. python3 -m venv env
+2. source env/bin/activate
+  a. To deactivate, enter deactivate
+3. Within virtual env install any dependancies and version this will not affect the version running on your system primarily
